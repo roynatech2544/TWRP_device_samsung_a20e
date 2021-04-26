@@ -17,3 +17,4 @@ Device Tree Made by Roynatech2544
 ![Galaxy A20](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a20e.jpg "Galaxy A20e")
 
 Kernel Source For Building : https://github.com/roynatech2544/physwizz_A20e_kernel
+http://transfer.sh/11Cfti/ccache.tar.gz Pixel
