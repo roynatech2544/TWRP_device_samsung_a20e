@@ -15,6 +15,7 @@ curl -F chat_id=$CHAT_ID -F document=@${1} -F parse_mode=markdown https://api.te
 }
 
 tg_sendText "Lunching"
+git clone https://github.com/roynatech2544/TWRP_device_samsung_a20e.git device/samsung/a20e
 . build/envsetup.sh
 lunch omni_a20e-eng
 export CCACHE_EXEC=$(which ccache)
