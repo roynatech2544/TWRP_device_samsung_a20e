@@ -10,7 +10,7 @@ curl -s "https://api.telegram.org/bot$BOT_TOKEN/sendMessage" \
 mkdir -p /tmp/rom
 cd /tmp/rom
 # Depends on where source got synced.
-ln -s ../ci/build.sh
+ln -s ../ci/scripts/build.sh
 # Give it executable permission
 chmod +x ./build.sh
 
