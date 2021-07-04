@@ -1,0 +1,8 @@
+[
+{
+    "remote": "github",
+    "repository": "Chatur27/Eureka-Kernel-Exynos7885-Q-R",
+    "target_path": "kernel/samsung/a20e",
+    "revision": "Eureka-QQ-Clang"
+  }
+]
