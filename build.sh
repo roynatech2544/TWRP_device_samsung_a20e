@@ -24,7 +24,7 @@ Default_Settings() {
     export FOX_R11="1"
     export USE_CCACHE="1"
     export OF_FLASHLIGHT_ENABLE="0"
-    export OF_SCREEN_H="1560"
+    export OF_SCREEN_H="1480"
     export FOX_BUILD_TYPE="Beta"
     export FOX_ADVANCED_SECURITY="1"
 
