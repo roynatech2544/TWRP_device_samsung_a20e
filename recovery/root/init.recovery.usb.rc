@@ -44,8 +44,8 @@ on boot
     setprop sys.usb.configfs 1
 
 # CDFS permission
-    chown system system /config/usb_gadget/g1/functions/mass_storage.0/lun.0/file
-    chmod 0660 /config/usb_gadget/g1/functions/mass_storage.0/lun.0/file
+    chown system system /sys/kernel/config/usb_gadget/g1/functions/mass_storage.0/lun.0/file
+    chmod 0660 /sys/kernel/config/usb_gadget/g1/functions/mass_storage.0/lun.0/file
 
 # ss_conn_daemon2 service
 on property:sys.usb.config=none
